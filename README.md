@@ -2,13 +2,13 @@
 
 ---
 
-#### Description
+## Description
 This work presents a comprehensive analysis of the global lithium market, focusing on demand factors, production trends, and forecasting models. It highlights the increasing demand for lithium due to the transition to electric transport and the expansion of clean technology. The study compares lithium exports from Chile and Australia, examines the impact of market events on prices and production, and utilizes various forecasting models to predict future trends. The findings suggest that the market potential for lithium has not yet been reached, with expectations of moderate to increasing demand. The work concludes with insights into the future of lithium extraction and market competition.
 
-#### Keywords
+## Keywords
 Time series Analysis
 
-#### Data
+## Data
 The database is constructed with the following information:
 - Exportation Lithium Data: Lithium in kilotons from Australia and Chile (Source: Australian Government’s Department of Industry, Science and Resources and National Customs Service of Chile).
 - Economic data: GDP Australia and Chile (Source: Central Bank of Chile and Reserve Bank of Australia)
@@ -16,7 +16,7 @@ The database is constructed with the following information:
 - Google Trends: E-cars, Lithium and Lithium Batteries from AUS, CHL, World (Source: Google Trends)
 - Stock Market: Albemarle, Mineral Resources and SQM (Source: Yahoo! Finance).
 
-#### Methods
+## Methods
 - Time series analysis
 - Bass Model: Utilized to understand the general growth of lithium up to now.
 - Generalized Bass Model (GBM): Shows how shocks impact the dynamics of lithium exports.
@@ -26,7 +26,7 @@ The database is constructed with the following information:
 - Autoregressive Integrated Moving Average (ARIMA): Used for time series forecasting with a drift component.
 - Autoregressive Moving Average with eXogenous inputs (ARMAX): Incorporates explanatory variables like GDP, electric vehicle stock, and solar investment for forecasting.
 
-#### Software
+## Software
 R
 
 #### Files
