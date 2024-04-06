@@ -1,4 +1,4 @@
-### Powering the Future in a Sustainable way: Lithium Analysis and Forecasting
+# Powering the Future in a Sustainable way: Lithium Analysis and Forecasting
 
 ---
 
