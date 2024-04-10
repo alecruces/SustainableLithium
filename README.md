@@ -31,6 +31,24 @@ The database is constructed with the following information:
 R
 
 ## Files
-Code and Presentation
+* Code:
+  
+  Explanation about R files:
+  
+  - `load_data.R`: Downloads the data from a Github repository
+
+  - `transform_data.R`: Manipulates data and performs all the transformations needed for the analysis
+
+  - `models.R`: executes all the models except for ARIMA. It uses load_data and transform_data files
+
+  - `arima_armax.R`: executes ARIMA/ARMAX models. It uses load_data and transform_data files
+
+
+  How to run:
+
+  1. Run `load_data.R` and `transform_data.R`
+  2. Open `models.R` or `arima_armax.R`
+  3. Run the selected R script
+* Presentation
 
 ---
