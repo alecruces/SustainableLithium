@@ -23,8 +23,6 @@ Time Series Analysis, Sustainable Energy, Forecasting Models
 8. [Setup & Installation](#setup--installation)
 9. [Usage](#usage)
 10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
 
 ---
 
@@ -39,7 +37,7 @@ This project provides a comprehensive analysis of the lithium market, focusing o
 - **Comparison of Lithium Exports**: Focused on export dynamics of key producers, Chile and Australia.
 - **Impact Assessment**: Examined how significant market events influence lithium prices and production.
 
-### 3. Key Results
+### Key Results
 
 - **Forecasting Accuracy**:
   - For Australia: Holt’s Exponential Smoothing showed the best Mean Absolute Percentage Error (MAPE) at 13.64.
@@ -47,7 +45,7 @@ This project provides a comprehensive analysis of the lithium market, focusing o
 - **Market Potential**: The Bass and Generalized Bass Models indicate the lithium market’s growth potential has not been fully realized, with future demand expected to increase moderately.
 - **Influential Factors**: Key variables such as Google Trends for lithium batteries, Mineral Resources stock, and electric vehicle adoption significantly impact lithium demand.
 
-### 4. Data Overview
+### Data Overview
 
 The dataset includes the following sources and variables:
 - **Lithium Export Data**: Kilotons of lithium exported from Australia and Chile.
@@ -56,7 +54,7 @@ The dataset includes the following sources and variables:
 - **Google Trends**: Search interest in e-cars, lithium, and batteries.
 - **Stock Market Data**: Stock prices for companies like Albemarle, Mineral Resources, and SQM.
 
-### 5. Methodology
+### Methodology
 
 The following methods and models were employed in this analysis:
 
@@ -68,20 +66,20 @@ The following methods and models were employed in this analysis:
   - **KNN Regression**: Adapted for time series with lagged values.
   - **ARIMA and ARMAX**: Time series with drift and explanatory variables (like GDP and electric vehicle stock).
 
-### 6. Screenshots and Graphs
+### Screenshots and Graphs
 
 Here are some key visualizations to consider including:
 [Under Construction]
 
-### 🛠️ Technologies Used
+### Technologies Used
 
-> Highlighting the primary tools and methods employed in this project.
+> 🛠️ Highlighting the primary tools and methods employed in this project.
 
 - ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white): Primary language for data processing, analysis, and forecasting.
 - **📉 Time Series Analysis**: Used for trend and seasonality analysis in lithium exports.
 - **🔮 Forecasting Models**: Implemented models including Holt’s Exponential Smoothing, ARIMA, ARMAX, and KNN Regression to predict lithium trends.
 
-### 8. Setup & Installation
+### Setup & Installation
 
 Clone the repository and follow these steps to run the analysis:
 
@@ -100,7 +98,7 @@ Rscript transform_data.R
 Rscript models.R     # Runs all models except ARIMA
 Rscript arima_armax.R  # Runs ARIMA/ARMAX models
 ```
-### 9. Usage
+### Usage
 
 The repository includes the following R scripts:
 
@@ -111,7 +109,7 @@ The repository includes the following R scripts:
 
 To run the analysis, execute each script sequentially or as needed.
 
-### 10. Contributing
+### Contributing
 
 Contributions are welcome! Please see the contributing guidelines for more details.
 
