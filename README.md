@@ -28,11 +28,11 @@ Time Series Analysis, Sustainable Energy, Forecasting Models
 
 ---
 
-### 1. About the Project
+### About the Project
 
 This project provides a comprehensive analysis of the lithium market, focusing on demand and production trends, and uses various time series and forecasting models. The work examines lithium exports from Chile and Australia, factors affecting demand due to clean technology adoption, and future trends. Ultimately, it aims to provide insights into lithium’s role in sustainable energy and the market’s untapped potential.
 
-### 2. Key Features
+### Key Features
 
 - **Lithium Market Analysis**: Detailed study of lithium demand, production, and export patterns.
 - **Forecasting Models**: Applied Holt’s Exponential Smoothing, ARIMA, ARMAX, and other advanced models to predict trends.
