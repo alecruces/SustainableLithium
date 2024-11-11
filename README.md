@@ -72,9 +72,7 @@ The following methods and models were employed in this analysis:
 ### 6. Screenshots and Graphs
 
 Here are some key visualizations to consider including:
-
-<img width="418" alt="image" src="https://github.com/user-attachments/assets/c82a904a-c69b-41b8-81e7-a3de6ad3ffc9">
-
+[Under Construction]
 
 ### 🛠️ Technologies Used
 
