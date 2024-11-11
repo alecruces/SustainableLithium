@@ -1,4 +1,3 @@
-<img width="418" alt="image" src="https://github.com/user-attachments/assets/f57b7db5-4579-4563-b876-53834db83d85">
 # Powering the Future in a Sustainable Way: Lithium Analysis and Forecasting
 
 > Comprehensive analysis and forecasting of the global lithium market, examining demand trends, export dynamics, and the impact of key market events on lithium prices and production.
