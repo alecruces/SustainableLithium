@@ -115,8 +115,5 @@ To run the analysis, execute each script sequentially or as needed.
 
 Contributions are welcome! Please see the contributing guidelines for more details.
 
-### 11. License
-
-This project is licensed under the MIT License.
 
 
